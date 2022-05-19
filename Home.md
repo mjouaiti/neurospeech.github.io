@@ -4,7 +4,7 @@ title: "Home"
 permalink: /home/
 ---
 
-
+![Melanie](DSC_1273b.jpg)
 
 I am currently a Post-Doctoral fellow at SIRRL in University of Waterloo under the supervision of Professor Kerstin Dautenhahn. I got my PhD in Computer Science from the Université de Lorraine, Nancy, France.
 
