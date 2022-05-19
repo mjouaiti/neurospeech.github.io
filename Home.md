@@ -1,6 +1,10 @@
+---
 layout: page
 title: "Home"
 permalink: /home/
+---
+
+
 
 I am currently a Post-Doctoral fellow at SIRRL in University of Waterloo under the supervision of Professor Kerstin Dautenhahn. I got my PhD in Computer Science from the Université de Lorraine, Nancy, France.
 
