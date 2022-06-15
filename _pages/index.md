@@ -7,6 +7,7 @@ header:
   overlay_color: "rgba(94, 97, 108,0.4)"
   overlay_image: /assets/images/DSC_1273b.jpg
 excerpt: >
+  <br /><br /><br /> 
   Post-doctoral Fellow
   <br /><br /><br /> 
 ---
