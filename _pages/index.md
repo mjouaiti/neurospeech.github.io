@@ -20,5 +20,5 @@ I am currently a Research Associate in the Biomechatronics lab at Imperial Colle
 I am interested in Robotics and AI. My work focuses mainly on Human-Robot Interactions in Healthcare (Robot-Assisted Therapy, Assistive robotics)
 ---
 
-<p>For any enquiry, please contact <a href="mailto:mjouaiti@ic.ac.uk">mjouaiti@ic.ac.uk</a></p>
-or <a href="mailto:melanie.jouaiti@nativescientist.com">melanie.jouaiti@nativescientist.com</a></p> if your query relates to Native Scientist.
+<p>For any enquiry, please contact <a href="mailto:mjouaiti@ic.ac.uk">mjouaiti@ic.ac.uk</a>
+or <a href="mailto:melanie.jouaiti@nativescientist.com">melanie.jouaiti@nativescientist.com</a> if your query relates to Native Scientist.</p>

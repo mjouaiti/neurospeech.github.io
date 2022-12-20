@@ -55,8 +55,10 @@ June 2018: Nengo Summer School, Waterloo, Canada
 
 ---
 
-2022: DAAD AInet fellow for the Postdoc-NeT-AI – AI and Robotics. 
+2022: DAAD AInet fellow for the Postdoc-NeT-AI – AI and Robotics
+
 2019: DrEAM! (Doctor, Explore and Achieve More!) scholarship
+
 2016: IdEx Excellence Mobility grant 
 
 ---
