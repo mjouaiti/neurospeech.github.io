@@ -20,9 +20,8 @@ excerpt: >
 
 Rémi Pannequin, <ins>Melanie Jouaiti</ins>, Mohamed Boutayeb, Philippe Lucas, Dominique Martinez, Lab-on-cables: Automatic tracking of free-flying insects, **Science Robotics** - June 2020
 
-<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Robot-Assisted Therapy for Upper Limb Impairments in Cerebral Palsy: A Systematic Review and Suggestions for Future Research, **Journal of Assistive Technology** - Submitted
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Robot-Assisted Therapy for Upper Limb Impairments in Cerebral Palsy: A Systematic Review and Suggestions for Future Research, **Paladyn, Journal of Behavioural Robotics ** - Submitted
 
-Hamza Mahdi, <ins>Melanie Jouaiti</ins>, Shahed Saleh, Kerstin Dautenhahn, Towards accessible robot-assisted physical play for children with disabilities: MyJay, from user-centred design to an initial feasibility study, **Frontiers in Robotics and AI** - Under revisions 
   
 ---
 
@@ -44,13 +43,36 @@ Maria Rodalyn V. Sanchez, Satoru Mishima, Masayuki Fujiwara, Guangyi Ai, <ins>Me
 
 <ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Dysfluency Classification in Stuttered Speech Using Deep Learning for Real-Time Applications, **International Conference on Acoustics, Speech, & Signal Processing (ICASSP2022)**, Singapore, Singapore - May 2022
 
-<ins>Melanie Jouaiti</ins>, Imitation with a Bio-Inspired Controller: A Feasibility Study with Children with ASD, **Ro-Man Conference**, Naples, Italy - 2022 - Submitted
+<ins>Melanie Jouaiti</ins>, Motor Imitation: Bio-Inspired vs Direct Geometric Control, IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO), Long Beach, USA - May 2022
 
-<ins>Melanie Jouaiti</ins>, Eloise Zehnder, Francois Charpillet, The Sound of Actuators in ASD, Beneficial or Disruptive?, **Ro-Man Conference**, Naples, Italy - 2022 - Submitted
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, What Kind of Player are You? Continuous Learning of a Player Profile for Adaptive Robot Teleoperation, **IEEE International Conferences on Development and Learning (ICDL)**, London, UK - September 2022
+
+<ins>Melanie Jouaiti</ins>, Imitation with a Bio-Inspired Controller: A Feasibility Study with Children with ASD, **BAILAR Workshop (RO-MAN)**, Naples, Italy - 2022
+
+Kevin Fan, <ins>Melanie Jouaiti</ins>, Chrystopher Nehaniv, Kerstin Dautenhahn, Fuzzy Object Ambiguity Determination  and Human Attention Assessment for Domestic Service Robots, **International Conference on Soft Computing & Machine Intelligence (ISCMI)**, Toronto, Canada - 2022
+
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Dysfluency Classification in Speech using a Biological Sound Perception Model, **International Conference on Soft Computing and Machine Intelligence (ISCMI)**, Toronto, Canada - 2022
+
+<ins>Melanie Jouaiti</ins>, Imitation with a Bio-Inspired Controller: A Feasibility Study with Children with ASD, **Ro-Man Conference**, Naples, Italy - 2022
+
+<ins>Melanie Jouaiti</ins>, Eloise Zehnder, Francois Charpillet, The Sound of Actuators in ASD, Beneficial or Disruptive?, **Ro-Man Conference**, Naples, Italy - 2022
+
+<ins>Melanie Jouaiti</ins>, Negin Azizi, Steven Lawrence, Kerstin Dautenhahn, Navigating a Robot Through a Maze: Data Collection with Children with Upper Limb Impairments, **IEEE International Conference on Social Robotics (ICSR)**, Naples, Italy - 2022 - Submitted
+
+Negin Azizi, Kevin Fan, <ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Play Dynamics in a Collaborative Game Through a Robot Play-Mediator, **IEEE International Conference on Social Robotics (ICSR)**, Naples, Italy - 2022 - Submitted
+
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Multi-Label Dysfluency Classification, **International Conference on Speech and Computer (ICSC)**, India - 2022
+
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Harnessing Uncertainty - Multi-Label Dysfluency Classification with Uncertain Labels,  **International Conference on Speech and Computer (ICSC)**, India - 2022
+
+<ins>Melanie Jouaiti</ins>, Negin Azizi, Steven Lawrence, Kerstin Dautenhahn, Development of an Adaptive Joystick Controller and Upper Limb Impairments Model, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023 - Submitted
+
+Kevin Fan, <ins>Melanie Jouaiti</ins>, Ali Noormohammadi Asl, Chrystopher Nehaniv, Kerstin Dautenhahn, Social Referencing Disambiguation Framework for Domestic Service Robots, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023 - Submitted
+
 
 --
 
-# Workshop Papers
+# Non Peer-reviewed Papers
 
 <ins>Melanie Jouaiti</ins>, Patrick Hénaff, Real Time Movement Classification in Versatile CPG Control - **Workshop on Robust Artificial Intelligence for Neurorobotics** - Edinburgh, August 2019
 
