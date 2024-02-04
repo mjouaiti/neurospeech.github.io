@@ -31,13 +31,15 @@ June 2018: Nengo Summer School, Waterloo, Canada
 # Professional Experience
 
 ---
+2024: Lecturer (Assistant Professor), **University of Birmingham, School of Computer Science**
+
 2023: Teaching Assistant for Embedded C programming at **Imperial College London**
 
-2022-current: French Coordinator in London for **Native Scientist**
+2022-2024: French Coordinator in London for **Native Scientist**
 
-2022-current: Member of the Community Advisory Panel for the **Cambridge Autism Centre of Excellence**
+2022-2024: Member of the Community Advisory Panel for the **Cambridge Autism Centre of Excellence**
 
-2022-current: Research Associate, **Imperial College London** and **UK-Dementia Research Institute** with Ravi Vaidyanathan
+2022-2024: Research Associate, **Imperial College London** and **UK-Dementia Research Institute** with Ravi Vaidyanathan
 
 2021-2022: PostDoc at SIRRL, **University of Waterloo** with Kerstin Dautenhahn
 
