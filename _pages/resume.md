@@ -56,6 +56,13 @@ June 2018: Nengo Summer School, Waterloo, Canada
 # Awards and Honors
 
 ---
+2024: Ramsay Fund Internal funding - Automatic diagnosis of neurodegeneration from neuroimaging
+
+2024: Royal Society Grant - Exploring the Integration of Socially assistive robots into the speech and language therapy practice
+
+2024: Ramsay Fund Internal funding - Deployment of a chatbot app with people with neurodegeneration
+
+2023: Principal investigator for the UK-Dementia research institute Pilot Award Programme - Automated Assessment of Emotional Wellbeing of People with Dementia (DRI-PP2021-027) - £43,281.29
 
 2022: DAAD AInet fellow for the Postdoc-NeT-AI – AI and Robotics
 

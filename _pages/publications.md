@@ -20,7 +20,13 @@ excerpt: >
 
 Rémi Pannequin, <ins>Melanie Jouaiti</ins>, Mohamed Boutayeb, Philippe Lucas, Dominique Martinez, Lab-on-cables: Automatic tracking of free-flying insects, **Science Robotics** - June 2020
 
-<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Robot-Assisted Therapy for Upper Limb Impairments in Cerebral Palsy: A Systematic Review and Suggestions for Future Research, **Paladyn, Journal of Behavioural Robotics ** - Submitted
+<ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Robot-Assisted Therapy for Upper Limb Impairments in Cerebral Palsy: A Systematic Review and Suggestions for Future Research, **Paladyn, Journal of Behavioural Robotics ** - February 2023
+
+Maria R. Lima, Ting Su, <ins>Melanie Jouaiti</ins>, Maitreyee Wairagkar, Paresh Malhotra, Eyal Soreq, Payam Barnaghi, Ravi Vaidyanathan, Discovering Behaviour from Conversational AI Technology for Health and Well-being Monitoring in Smart Environments, **IEEE Internet of Things Journal** - June 2023
+
+Ting Su, Rafael A. Calvo, <ins>Melanie Jouaiti</ins>, Sarah J C Daniels, Pippa Kirby, Derk-Jan Dijk, Ciro della Monica, Ravi Vaidyanathan, Assessing the design of a sleep intervention chatbot with automatic Sleep Interviewing chatbot for sleep disorders: Protocol for an Observational Feasibility Study, **JMIR Research Protocols** - May 2023
+
+Hamza Mahdi, <ins>Melanie Jouaiti</ins>, Shahed Saleh, Kerstin Dautenhahn, Towards accessible robot-assisted physical play for children with disabilities: MyJay, from user-centred design to an initial feasibility study, **Interaction Studies** - January 2024
 
   
 ---
@@ -65,10 +71,17 @@ Negin Azizi, Kevin Fan, <ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Play Dyn
 
 <ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Harnessing Uncertainty - Multi-Label Dysfluency Classification with Uncertain Labels,  **International Conference on Speech and Computer (ICSC)**, India - 2022
 
-<ins>Melanie Jouaiti</ins>, Negin Azizi, Steven Lawrence, Kerstin Dautenhahn, Development of an Adaptive Joystick Controller and Upper Limb Impairments Model, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023 - Submitted
+<ins>Melanie Jouaiti</ins>, Negin Azizi, Steven Lawrence, Kerstin Dautenhahn, Development of an Adaptive Joystick Controller and Upper Limb Impairments Model, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023
 
-Kevin Fan, <ins>Melanie Jouaiti</ins>, Ali Noormohammadi Asl, Chrystopher Nehaniv, Kerstin Dautenhahn, Social Referencing Disambiguation Framework for Domestic Service Robots, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023 - Submitted
+Kevin Fan, <ins>Melanie Jouaiti</ins>, Ali Noormohammadi Asl, Chrystopher Nehaniv, Kerstin Dautenhahn, Social Referencing Disambiguation Framework for Domestic Service Robots, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK - 2023
 
+<ins>Melanie Jouaiti</ins>, Pippa Kirby, Ravi Vaidyanathan, Matching Acoustic and Perceptual Measures of Phonation Assessment in Disordered Speech - A Case Study, **INTERSPEECH 2023**, Dublin, Ireland - August 2023 
+
+Steven Lawrence, Negin Azizi, Kevin Fan, <ins>Melanie Jouaiti</ins>, Chrystopher L. Nehaniv, Jesse Hoey, Kerstin Dautenhahn, The Impact of Social Norm Violations on  Participants' Perception of and Trust in a Robot During a Competitive Game Scenario, **IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)**, Busan, Korea - August 2023
+
+Negin Azizi, Kevin Fan, <ins>Melanie Jouaiti</ins>, Kerstin Dautenhahn, Exploring Measures for Engagement in a Collaborative Game Using a Robot Play-Mediator, **IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)**, Busan, Korea - August  2023
+
+Suhita Ghosh, <ins>Melanie Jouaiti</ins>, Arnab Das, Yamini Sinha, Tim Polzehl, Ingo Siegert, Sebastian Stober, Anonymising Elderly and Pathological Speech: Voice Conversion Using DDSP and Query-by-Example, **INTERSPEECH 2024**, Kos, Greece - September 2024
 
 --
 
