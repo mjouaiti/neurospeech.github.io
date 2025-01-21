@@ -13,6 +13,7 @@ excerpt: >
 
 | Tentative program                                       |                                            |
 | ------------------------------------------- | ------------------------------------------ |
+| **9.30-9.50**   | Registration and refreshments   |
 | **9.50-10.00**   | Introduction to the workshop   |
 | **10.00-10.30** | Persons with lived experience on speech, research and why they think it’s relevant                  |
 | **10.30-11.30** | Discussion 1 - PPIE: pointless tick box exercise or real asset, are we listening?                 |
