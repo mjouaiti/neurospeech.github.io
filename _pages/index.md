@@ -20,7 +20,9 @@ The workshop aims to bring speech researchers, clinicians and people with lived 
 # Organising Committee: 
 ---
 Dr. Melanie Jouaiti, University of Birmingham
+
 Dr. Nicholas Cummins, King’s College London
+
 Dr. Ning Ma, University of Sheffield
 
 ---
