@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Important Dates"
-permalink: /important-dates/
+title: "Program"
+permalink: /program/
 hidden: true
 header:
   overlay_color: "#5e616c"
