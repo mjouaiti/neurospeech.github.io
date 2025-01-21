@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Important Dates"
     url: /important-dates/
   - title: "Organisers"
