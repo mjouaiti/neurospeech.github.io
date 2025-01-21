@@ -1,20 +1,33 @@
 ---
 layout: splash
-title: "Melanie Jouaiti"
+title: "Developing digital spoken language biomarkers for neurodegeneration"
 permalink: /
 hidden: true
 header:
   overlay_color: "rgba(94, 97, 108,0.4)"
-  overlay_image: /assets/images/DSC_1273b.jpg
 excerpt: >
   <br /><br /><br /> 
-  Research Associate
+  N-CODE Hot Topic Workshops 
   <br /><br /><br /> 
+  Tuesday 18 March
+  University of Birmingham
 ---
-# About Me
+
+As disease-modifying treatments for neurodegenerative conditions start being promising, early detection becomes increasingly critical to detect people with neurodegeneration early. However, the current healthcare system is overwhelmed, with long wait times and the heterogeneity of quality of service across the country, a situation that is likely to get worse. It is therefore paramount to move some of the screening into the community by using digital spoken language biomarkers.
+
+The workshop aims to bring speech researchers, clinicians and people with lived experience together to discuss challenges, and create a community.
+--- 
+# Organising Committee: 
 ---
-I am currently a Lecturer (Assistant Professor) at the University of Birmingham, School of Computer Science. Before that, I was a Research Associate in the Biomechatronics lab at Imperial College London and UK Dementia Research Institute with Prof. Ravi Vaidyanathan. I was previously a Post-Doctoral fellow at SIRRL in University of Waterloo under the supervision of Prof. Kerstin Dautenhahn. I got my PhD in Computer Science from the Université de Lorraine, Nancy, France.
-I am interested in Robotics and AI. My work focuses mainly on Human-Robot Interactions in Healthcare (Robot-Assisted Therapy, Assistive robotics) and pathological speech.
+Dr. Melanie Jouaiti, University of Birmingham
+Dr. Nicholas Cummins, King’s College London
+Dr. Ning Ma, University of Sheffield
+
+---
+# Supported by:
+---
+
+This workshop is funded by the EPSRC/MRC N-CODE Network+
 ---
 <p>For any enquiry, please contact <a href="mailto:m.jouaiti@bham.ac.uk">m.jouaiti@bham.ac.uk</a>
 </p>
