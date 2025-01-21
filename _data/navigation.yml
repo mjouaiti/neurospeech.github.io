@@ -1,8 +1,6 @@
 main:
   - title: "Important Dates"
     url: /important-dates/
-  - title: "Organisers"
-    url: /organisers/
   - title: "Program"
     url: /program/
   - title: "Invited Speakers"
