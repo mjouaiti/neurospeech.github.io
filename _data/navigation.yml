@@ -1,7 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume"
-    url: /resume/
-  - title: "Publications"
-    url: /publications/
+  - title: "Important Dates"
+    url: /important-dates/
+  - title: "Organisers"
+    url: /organisers/
+  - title: "Program"
+    url: /program/
+  - title: "Invited Speakers"
+    url: /invited-speakers/

@@ -13,7 +13,5 @@ excerpt: >
 
 | Dates                                       |                                            |
 | ------------------------------------------- | ------------------------------------------ |
-| **June 30th**     | Paper submission deadline |
-| **August 10th**   | Acceptance notification   |
-| **August 20th**   | Camera ready submission   |
-| **September 2nd** | Workshop                  |
+| **March 4th**   | Registration deadline   |
+| **March 18th** | Workshop                  |
