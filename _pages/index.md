@@ -5,7 +5,6 @@ permalink: /
 hidden: true
 header:
   overlay_color: "rgba(94, 97, 255,0.4)"
-  overlay_image: /assets/images/brain.png
 excerpt: >
   <br /><br /><br /> 
   N-CODE Hot Topic Workshops 
