@@ -4,7 +4,7 @@ title: "Developing digital spoken language biomarkers for neurodegeneration"
 permalink: /
 hidden: true
 header:
-  overlay_color: "rgba(94, 97, 108,0.4)"
+  overlay_color: "rgba(94, 97, 255,0.4)"
 excerpt: >
   <br /><br /><br /> 
   N-CODE Hot Topic Workshops 
