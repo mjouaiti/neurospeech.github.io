@@ -7,7 +7,7 @@ header:
   overlay_color: "rgba(94, 97, 255,0.4)"
 excerpt: >
   <br /><br /><br /> 
-  N-CODE Hot Topic Workshops 
+  N-CODE Hot Topic Workshop
   <br /><br />
   Tuesday 18 March - 9.30 - 16.00
     <br /> 
