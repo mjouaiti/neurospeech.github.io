@@ -10,6 +10,7 @@ excerpt: >
   N-CODE Hot Topic Workshops 
   <br /><br /><br /> 
   Tuesday 18 March - 9.30 - 16.00
+  
   University of Birmingham
 ---
 
