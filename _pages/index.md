@@ -47,7 +47,7 @@ All guests must obtain a parking permit from out reception desks and display on 
 # Registration
 ---
 
-Please <a href="register">https://www.eventbrite.com/e/n-code-workshop-digital-spoken-language-biomarkers-for-neurodegeneration-tickets-1217137704639?aff=oddtdtcreator</a> your participation before March 4th.
+Please <a href="https://www.eventbrite.com/e/n-code-workshop-digital-spoken-language-biomarkers-for-neurodegeneration-tickets-1217137704639?aff=oddtdtcreator">register</a> your participation before March 4th.
 
 --- 
 # Organising Committee: 
