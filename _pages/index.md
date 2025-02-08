@@ -49,6 +49,8 @@ All guests must obtain a parking permit from out reception desks and display on 
 
 Please <a href="https://www.eventbrite.com/e/n-code-workshop-digital-spoken-language-biomarkers-for-neurodegeneration-tickets-1217137704639?aff=oddtdtcreator">register</a> your participation before March 4th.
 
+For any accessibility requirements or food restrictions, please contact <a href="mailto:m.jouaiti@bham.ac.uk">m.jouaiti@bham.ac.uk</a>
+
 --- 
 # Organising Committee: 
 ---
