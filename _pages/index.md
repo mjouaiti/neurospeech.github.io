@@ -66,13 +66,13 @@ This workshop is funded by the EPSRC/MRC N-CODE Network+ and endorsed by UKIS
 <div style="display: inline-block;padding: 20px;">
     <div style="max-width: 400px;">
         <div style="max-width: 400px;max-height: 400px;overflow: hidden;">
-            <img src="/assets/images/ukis.png" class="rounded" alt="UKIS" style="width: 400px;">
+            <img src="/assets/images/ukis.jpg" class="rounded" alt="UKIS" style="width: 400px;">
         </div>
     </div>
 </div>
     
     
-<img src="/assets/images/ukis.png" alt="ukis" width="200"/>
+<img src="/assets/images/ukis.jpg" alt="ukis" width="200"/>
 
 ---
 <p>For any enquiry, please contact <a href="mailto:m.jouaiti@bham.ac.uk">m.jouaiti@bham.ac.uk</a>
