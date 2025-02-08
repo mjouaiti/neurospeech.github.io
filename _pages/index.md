@@ -62,6 +62,16 @@ Dr. Ning Ma, University of Sheffield
 # Supported by:
 ---
 This workshop is funded by the EPSRC/MRC N-CODE Network+ and endorsed by UKIS
+
+<div style="display: inline-block;padding: 20px;">
+    <div style="max-width: 400px;">
+        <div style="max-width: 400px;max-height: 400px;overflow: hidden;">
+            <img src="/assets/images/brain.png" class="rounded" alt="UKIS" style="width: 400px;">
+        </div>
+    </div>
+</div>
+    
+    
 <img src="/assets/images/ukis.png" alt="ukis" width="200"/>
 
 ---
