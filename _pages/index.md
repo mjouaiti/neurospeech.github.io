@@ -61,7 +61,8 @@ Dr. Ning Ma, University of Sheffield
 ---
 # Supported by:
 ---
-This workshop is funded by the EPSRC/MRC N-CODE Network+
+This workshop is funded by the EPSRC/MRC N-CODE Network+ and endorsed by UKIS
+<img src="/assets/images/ukis.png" alt="ukis" width="200"/>
 
 ---
 <p>For any enquiry, please contact <a href="mailto:m.jouaiti@bham.ac.uk">m.jouaiti@bham.ac.uk</a>
