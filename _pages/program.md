@@ -15,8 +15,8 @@ excerpt: >
 | ------------------------------------------- | ------------------------------------------ |
 | **9.30-10.00**   | Registration and refreshments   |
 | **10.00-10.15**  | Introduction to the workshop   |
-| **10.15-11.00**  | Discussion 1 - PPIE: pointless tick box exercise or real asset, are we listening?                 |
-| **11.00-11.30**  | ?? |
+| **10.15-10.45**  | Getting to know each other         |
+| **10.45-11.30**  | Discussion 1 - PPIE: pointless tick box exercise or real asset, are we listening? |
 | **11.30-12.00**  | Research talk - Heidi Christensen and Dan Blackburn  |
 | **12.00-13.00**  | Lunch                  |
 | **13.00-13.30**  | Research talk - Srinivasan Vairavan, Update on RADAR-AD                |
